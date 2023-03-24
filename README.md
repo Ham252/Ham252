@@ -13,7 +13,7 @@
 <p align="left"> 
     <a href="https://dotnet.microsoft.com/" target="_blank"
     rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"
         alt="dotnet" width="40" height="40" /> 
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank"
