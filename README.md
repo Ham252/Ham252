@@ -1,7 +1,6 @@
 [![MasterHead](https://i.ibb.co/Tkhfmyx/Instagram-story-3-2.png)](https://codyle.com)
 <h1 align="center">Hey, I'm Hamza</h1>
-<h3 align="center">Co-Founder and Full-Stack Dev of Codyle & Software Engineering Student at Üsküdar University</h3>
-
+<h3 align="center">Co-Founder and Full-Stack Dev of <a href="https://www.codyle.com" target="_blank">Codyle </a> & Software Engineering Student at Üsküdar University</h3>
 - 📖 Currently learning **Too Many Things**
 
 - 📫 Reach me at: **hamzaamin252003@outlook.com**
