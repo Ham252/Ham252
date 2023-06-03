@@ -57,3 +57,9 @@
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
     </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ham252&show_icons=true&locale=en&layout=compact" alt="ham252" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ham252&show_icons=true&locale=en" alt="ham252" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ham252&" alt="ham252" /></p>
