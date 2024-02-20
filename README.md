@@ -1,7 +1,5 @@
-[![MasterHead](https://i.ibb.co/Tkhfmyx/Instagram-story-3-2.png)](https://codyle.com)
 <h1 align="center">Hey, I'm Hamza</h1>
-<h3 align="center">Co-Founder and Full-Stack Dev of <a href="https://www.codyle.com" target="_blank">Codyle </a> & Software Engineering Student at Üsküdar University
-</h3>
+<h3 align="center">Software Engineering Student at Üsküdar University & Full-stack Dev </h3>
 <p>
 - 📖 Currently learning: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
