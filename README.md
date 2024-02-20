@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Hamza</h1>
 <h3 align="center">Software Engineering Student at Üsküdar University & Full-stack Dev </h3>
 <p>
-<h3>- 📖 Currently learning:  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </h3> 
+<h3>- 📖 Currently learning:  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> </h3> 
 </p>
 
 <h3>- 📫 Reach me at: hamzaamin252003@outlook.com  </h3>
